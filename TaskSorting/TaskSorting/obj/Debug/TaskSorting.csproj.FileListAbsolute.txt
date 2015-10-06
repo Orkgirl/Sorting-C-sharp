@@ -1,0 +1,17 @@
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\TaskSorting.exe.config
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\TaskSorting.pdb
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\ThoughtWorks.Selenium.Core.dll
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\ThoughtWorks.Selenium.Core.xml
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\obj\Debug\TaskSorting.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\obj\Debug\TaskSorting.exe
+d:\documents\visual studio 2015\Projects\TaskSorting\TaskSorting\obj\Debug\TaskSorting.pdb
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\WebDriver.Support.dll
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\WebDriver.dll
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\WebDriver.Support.pdb
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\WebDriver.Support.xml
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\WebDriver.pdb
+D:\Documents\Visual Studio 2015\Projects\TaskSorting\TaskSorting\bin\Debug\WebDriver.xml
